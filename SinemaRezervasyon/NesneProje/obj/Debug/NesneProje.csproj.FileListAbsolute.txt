@@ -1,0 +1,35 @@
+C:\Users\emino\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\emino\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\emino\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\emino\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\emino\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\emino\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\emino\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\Hp\Downloads\OopProje\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje2\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\NESNE PROG\OopProje\OopProje\OopProje\NesneProje\obj\Debug\NesneProje.pdb
