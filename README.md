@@ -1,1 +1,2 @@
-## Oop dersi 2.proje ödevi 
+## Nesne Tabanlı Programlama dersi 2.projesi 
+
